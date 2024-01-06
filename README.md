@@ -13,7 +13,7 @@
 
 ## Get Started
 > Paste this in \<head\>:
-`<script defer src="https://hac.rf.gd/HacTags/0.0.1/hactags.js"></script>`
+```<script defer src="https://hac.rf.gd/HacTags/0.0.1/hactags.js"></script>```
 
 ## All Attributes
 
