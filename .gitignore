@@ -1,0 +1,8 @@
+# .gitignore
+
+.vscode/
+test/
+desktop.ini
+TODO.md
+r.ignore
+upload.bat
