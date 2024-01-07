@@ -3,6 +3,9 @@
 # HacTags
 > a javascript library that adds more attributes to html
 
+---
+---
+
 ## Features
 - [x] change text, fg/bg color when hovered
 - [x] change text, fg/bg color when clicked
@@ -10,6 +13,9 @@
 - [x] add text decoration from attribute
 - [x] change cursor
 - [x] abbreviation
+
+---
+---
 
 ## Get Started
 > Paste this in \<head\>:
@@ -150,3 +156,6 @@
 > ```
 
 ---
+---
+
+- latest update on 2024-01-07
