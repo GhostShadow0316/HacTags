@@ -21,7 +21,7 @@
 > Paste this in \<head\>:
 
 ```html
-<script defer src="https://hac.rf.gd/HacTags/0.0.1/hactags.js"></script>
+<script defer src="https://cdn.jsdelivr.net/gh/GhostShadow0316/HacTags/hactags.js"></script>
 ```
 
 ## All Attributes
